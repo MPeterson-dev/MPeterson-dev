@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Matthias
 
 Welcome to my GitHub profile! I'm a passionate and driven developer actively looking for opportunities to contribute my skills and grow as a software developer. Here's a bit about me:
----
-## 🌟 About Me
 - 🎓 **Recent Graduate**: I have a solid foundation in web development and software engineering through academic projects and personal learning, graduating with a **3.94 GPA**.
 - 💻 **Skills**: Proficient in **C#**, **JavaScript**, **React**, **Angular**, **Node.js**, and **MySQL**, with a keen interest in **full-stack development**.
 - 🚀 **Career Goal**: I aim to become a versatile **Full-Stack Developer**, creating impactful and user-friendly web applications.
